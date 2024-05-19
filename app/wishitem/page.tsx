@@ -199,7 +199,7 @@ export default function WishItem() {
                             <div className="grid gap-3">
                                 <MoneyInput
                                     form={form}
-                                    label="uang yang kamu miliki"
+                                    label="Uang yang kamu miliki"
                                     name="aktual"
                                     placeholder="Uang yang dimiliki"
                                 /></div>
