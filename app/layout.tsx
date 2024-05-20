@@ -9,7 +9,7 @@ import { ThemeProvider } from "@/components/apps/theme-provider"
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Menghitung Hidup",
+  title: "HitungSemua",
   description: "Kalkulator untuk menghitung kebutuhan dan mimpimu",
 };
 
